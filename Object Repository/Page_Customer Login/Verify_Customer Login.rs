@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Customer Login</name>
+   <tag></tag>
+   <elementGuidId>9d889b33-120f-45bd-9480-0b1ff253273c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div/h1/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f37a6ce5-afe5-4b1c-9918-ec44b54d7bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base</value>
+      <webElementGuid>94eec025-3e2d-499e-9b1e-c84e914de9d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ui-id</name>
+      <type>Main</type>
+      <value>page-title-wrapper</value>
+      <webElementGuid>4285ae7c-fab6-43ae-b11b-3f010a63d6f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Login</value>
+      <webElementGuid>31cec07d-fede-4c70-a1ad-ca066ffb1ca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;page-title-wrapper&quot;]/h1[@class=&quot;page-title&quot;]/span[@class=&quot;base&quot;]</value>
+      <webElementGuid>9a77b8ce-f5c5-4467-ae23-c87537ea7f2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div/h1/span</value>
+      <webElementGuid>392e0839-8b74-4276-83aa-9ed1f1341d64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[2]/following::span[1]</value>
+      <webElementGuid>cc899203-ce09-41fe-9102-27ac9380463c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[2]/following::span[1]</value>
+      <webElementGuid>0a36db75-db86-4a62-bdcf-8a43dd06edb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Registered Customers'])[1]/preceding::span[1]</value>
+      <webElementGuid>d7b0fbaf-de8c-426a-86f5-dfc438984190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If you have an account, sign in with your email address.'])[1]/preceding::span[1]</value>
+      <webElementGuid>1688f803-393c-4ba0-85d9-d05f41628dc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>2473dac5-e26d-45b3-8a17-1713d7cf63fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Customer Login' or . = 'Customer Login')]</value>
+      <webElementGuid>1855530b-2cbf-4706-95bc-0fdf8ee66523</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

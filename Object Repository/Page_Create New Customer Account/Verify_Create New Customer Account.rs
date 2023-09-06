@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Create New Customer Account</name>
+   <tag></tag>
+   <elementGuidId>2d076553-d1ee-4434-b15c-a81230c05975</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div/h1/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>844971b8-c8fc-485c-aeb7-41b7127276bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base</value>
+      <webElementGuid>1916afeb-b37f-4e3f-9726-d142256db591</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ui-id</name>
+      <type>Main</type>
+      <value>page-title-wrapper</value>
+      <webElementGuid>dc43bc9d-378f-46ea-94e3-01ecf0ae5d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create New Customer Account</value>
+      <webElementGuid>6ca4b2d5-0d1c-4fd7-a318-120702367750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;page-title-wrapper&quot;]/h1[@class=&quot;page-title&quot;]/span[@class=&quot;base&quot;]</value>
+      <webElementGuid>c4b093ee-c999-459f-a604-37c9343df85b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div/h1/span</value>
+      <webElementGuid>eafa0528-2108-4c23-baa8-521d48c92663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create an Account'])[2]/following::span[1]</value>
+      <webElementGuid>1dd82718-1938-42ef-8cb4-1656c2d6ef90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[2]/following::span[1]</value>
+      <webElementGuid>80af1c0a-496b-4b63-ad5a-c8af8d6a76b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Personal Information'])[1]/preceding::span[1]</value>
+      <webElementGuid>9296acc1-abfe-4370-ba3d-64cce6bae719</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::span[2]</value>
+      <webElementGuid>61650928-1e2a-4380-9e8e-097aa6a4d997</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>f14b3e63-a60b-4d1a-b09c-94cb1145914a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Create New Customer Account' or . = 'Create New Customer Account')]</value>
+      <webElementGuid>47f72611-e414-4ca8-bdf7-7dd25576c3cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

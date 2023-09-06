@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that user can login using invalid email and password from header login button</description>
+   <name>LUG_2_Login Account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7d0f53f-a6bb-475e-bbaa-567b2594b00a</testCaseGuid>
+</TestCaseEntity>

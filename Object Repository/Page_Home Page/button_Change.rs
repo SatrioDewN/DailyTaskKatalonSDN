@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Change</name>
+   <tag></tag>
+   <elementGuidId>d37e11ba-4692-49d5-803c-85e284474221</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.action.switch</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6b743595-63f2-46ec-93e3-00935673ca20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8e498e89-9ef9-4187-8796-d7b60a6baa3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>action switch</value>
+      <webElementGuid>2a1496b9-dce5-456a-b895-ec1b315be580</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>d4b35d61-9d99-4200-931a-6970f76f92fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-action</name>
+      <type>Main</type>
+      <value>customer-menu-toggle</value>
+      <webElementGuid>b0d21329-5ac1-49e1-b494-b1e303b62d81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+Change
+</value>
+      <webElementGuid>7be23c53-e11d-4344-b57b-aed6579539ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;cms-home cms-index-index page-layout-1column&quot;]/div[@class=&quot;page-wrapper&quot;]/header[@class=&quot;page-header&quot;]/div[@class=&quot;panel wrapper&quot;]/div[@class=&quot;panel header&quot;]/ul[@class=&quot;header links&quot;]/li[@class=&quot;customer-welcome&quot;]/span[@class=&quot;customer-name&quot;]/button[@class=&quot;action switch&quot;]</value>
+      <webElementGuid>353a8ba3-d644-4be3-b32b-bb062ba1c7d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='button']</value>
+      <webElementGuid>2efbbb7d-8362-4495-a237-024bd01d15d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome, Kio Adera!'])[1]/following::button[1]</value>
+      <webElementGuid>38992677-b529-4292-ba21-2644328f9c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skip to Content'])[1]/following::button[1]</value>
+      <webElementGuid>003b6352-5e58-4775-9406-bfb07a76dd0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[1]/preceding::button[1]</value>
+      <webElementGuid>3cd13299-d57c-4d89-8549-9aeb94bc69f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>026acc8c-9133-4400-ad42-6335a5db4922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '
+Change
+' or . = '
+Change
+')]</value>
+      <webElementGuid>d35a0449-94a0-4315-90bc-3419d598ad95</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

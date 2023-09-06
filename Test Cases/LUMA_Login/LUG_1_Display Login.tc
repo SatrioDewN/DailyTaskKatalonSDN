@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check that the display direct to Register</description>
+   <name>LUG_1_Display Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb7f014d-03fd-4ea3-ba19-8c0c27fe70ef</testCaseGuid>
+</TestCaseEntity>

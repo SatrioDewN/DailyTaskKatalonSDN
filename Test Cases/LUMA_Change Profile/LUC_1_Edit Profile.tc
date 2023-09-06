@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check that user can be directed to edit profile</description>
+   <name>LUC_1_Edit Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d32b7788-7ebd-4e11-ba8e-ca1e616829f6</testCaseGuid>
+</TestCaseEntity>

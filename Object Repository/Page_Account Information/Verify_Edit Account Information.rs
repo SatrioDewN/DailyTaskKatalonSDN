@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Verify_Edit Account Information</name>
+   <tag></tag>
+   <elementGuidId>1647f29b-37b6-4c6d-9f55-5dadeb339e3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[2]/div/div/h1/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.base</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cf596c9c-5e8f-44f1-b3d0-35d43328e0d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>base</value>
+      <webElementGuid>ab0c4583-c269-477a-a3a0-15623ccb5a22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ui-id</name>
+      <type>Main</type>
+      <value>page-title-wrapper</value>
+      <webElementGuid>8e4c592a-958f-4dd7-adde-4ec60ed25297</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit Account Information</value>
+      <webElementGuid>08b76509-09e5-4590-9939-cc47ef53f931</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;page-title-wrapper&quot;]/h1[@class=&quot;page-title&quot;]/span[@class=&quot;base&quot;]</value>
+      <webElementGuid>a96f9ef2-e4fb-4c39-a73f-1357367f492d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[2]/div/div/h1/span</value>
+      <webElementGuid>7193b0e2-f9a1-4e03-9f95-ea44b6f49863</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[4]/following::span[1]</value>
+      <webElementGuid>309659c9-77cd-49d2-a4cd-10d5eb4c9624</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign Out'])[3]/following::span[1]</value>
+      <webElementGuid>138b794c-a9a3-42b5-a04f-f6850540346c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Information'])[2]/preceding::span[1]</value>
+      <webElementGuid>5a18ebd1-8967-40bb-890a-163c98707031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='First Name'])[1]/preceding::span[2]</value>
+      <webElementGuid>2381c26c-4da0-4a27-8f92-082eb34b1e3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit Account Information']/parent::*</value>
+      <webElementGuid>22fd5ec9-b9c1-42ac-ab0e-db1a430835fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>dba6ec16-e423-45f0-9913-ae81e3737f3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Edit Account Information' or . = 'Edit Account Information')]</value>
+      <webElementGuid>76b9de1c-7dd7-4218-8f8c-0b811e285d8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
